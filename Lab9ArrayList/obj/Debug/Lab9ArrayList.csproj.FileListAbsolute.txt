@@ -1,0 +1,7 @@
+c:\users\carte\source\repos\Lab9ArrayList\Lab9ArrayList\bin\Debug\Lab9ArrayList.exe.config
+c:\users\carte\source\repos\Lab9ArrayList\Lab9ArrayList\bin\Debug\Lab9ArrayList.exe
+c:\users\carte\source\repos\Lab9ArrayList\Lab9ArrayList\bin\Debug\Lab9ArrayList.pdb
+c:\users\carte\source\repos\Lab9ArrayList\Lab9ArrayList\obj\Debug\Lab9ArrayList.csprojResolveAssemblyReference.cache
+c:\users\carte\source\repos\Lab9ArrayList\Lab9ArrayList\obj\Debug\Lab9ArrayList.csproj.CoreCompileInputs.cache
+c:\users\carte\source\repos\Lab9ArrayList\Lab9ArrayList\obj\Debug\Lab9ArrayList.exe
+c:\users\carte\source\repos\Lab9ArrayList\Lab9ArrayList\obj\Debug\Lab9ArrayList.pdb
